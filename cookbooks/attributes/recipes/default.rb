@@ -18,4 +18,3 @@ end
 template "#{node["document_root"]}/index.html" do
 source "index.html.erb"
 end
-rrrr
